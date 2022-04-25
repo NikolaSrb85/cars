@@ -1,0 +1,22 @@
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg06B1yrlfX-vawx6gB7KnDBCOpPQgNOOfAw&usqp=CAU);
+	background-size: cover;
+}
+
+h2,p{
+	color: blue;
+	text-align: center;
+	border:5px solid darkred;
+	cursor: pointer;
+}
+
+p{
+	color: red;
+	font-family: "Georgia";
+}
+
+
+li{
+	list-style: none;
+	display: inline-block;
+}

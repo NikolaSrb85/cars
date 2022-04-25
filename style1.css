@@ -1,0 +1,23 @@
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nABOiQp40UsvmDtgVQIJkCCH19q11iE92Q&usqp=CAU);
+	background-size: cover;
+}
+
+h2{
+	color:green;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+.boxmodel{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 0px 20px;
+	width: 50px;
+	height: 55px;
+}
+
